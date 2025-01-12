@@ -40,7 +40,7 @@ class  Script(object):
 ║╭━━━━━━━━━━━━━━━➣
 ║┣⪼📃ʙᴏᴛ : [Fᴏʀᴡᴀᴅ Bᴏᴛ](https://t.me/Gdidndbb_bot)
 ║┣⪼👦Cʀᴇᴀᴛᴏʀ : [Aᴋ 👑](https://t.me/Mrbeast18x)
-║┣⪼🤖Uᴘᴅᴀᴛᴇ : [Aᴋ Bᴏᴛᴢ](https://t.me/vj_botz)
+║┣⪼🤖Uᴘᴅᴀᴛᴇ : [Aᴋ Bᴏᴛᴢ](https://t.me/+3rrmD7g_pNk0NmE1)
 ║┣⪼📡Hᴏsᴛᴇᴅ ᴏɴ : Sᴜᴘᴇʀ Fᴀsᴛ
 ║┣⪼🗣️Lᴀɴɢᴜᴀɢᴇ : Pʏᴛʜᴏɴ3
 ║┣⪼📚Lɪʙʀᴀʀʏ : Pʏʀᴏɢʀᴀᴍ Gᴀᴛʜᴇʀ 2.11.0 
